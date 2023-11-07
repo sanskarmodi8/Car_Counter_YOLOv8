@@ -4,6 +4,8 @@
 
 The Car Counter Project is a computer vision application that utilizes the YOLO (You Only Look Once) object detection model, the SORT (Simple Online and Realtime Tracking) algorithm, CvZone and the OpenCV library to count the number of cars passing through the main road in a video stream. The project also demonstrates object tracking and utilizes a masking technique to focus on the region of interest.
 
+[result.gif]
+
 ## Features
 
 - Real-time car detection and counting.
